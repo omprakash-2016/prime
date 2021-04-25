@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    padding-top: 100px;
+    background-image: url(./plain3.jpg);
+    
+}
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.mylabel{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
